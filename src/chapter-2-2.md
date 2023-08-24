@@ -1,5 +1,3 @@
-Different Types of Businesses in E-commerce Industry
-==============================================================================================
 
 The e-commerce industry encompasses a variety of businesses, each with their own unique characteristics and challenges. In this chapter, we will explore the different types of businesses involved in the e-commerce industry.
 

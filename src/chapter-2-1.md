@@ -1,5 +1,3 @@
-Definition of E-commerce Industry
-===========================================================================
 
 The e-commerce industry has transformed the way businesses operate, allowing them to reach customers around the world and sell products and services more efficiently. In this chapter, we will explore the definition of the e-commerce industry and its key characteristics.
 

@@ -1,5 +1,3 @@
-Summary of Key Points
-=================================
 
 In this book, we have explored the ways in which ChatGPT is improving customer experience and boosting sales in the e-commerce industry. We discussed the following key points:
 

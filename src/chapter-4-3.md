@@ -1,5 +1,3 @@
-Benefits of Using AI and Chatbots for E-commerce Industry
-===============================================================================================================
 
 Artificial intelligence (AI) and chatbots are transforming the e-commerce industry by improving customer experience and boosting sales. In this chapter, we will explore the benefits of using AI and chatbots for the e-commerce industry.
 

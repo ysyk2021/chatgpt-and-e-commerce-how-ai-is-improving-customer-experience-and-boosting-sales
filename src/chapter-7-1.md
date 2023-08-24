@@ -1,8 +1,3 @@
-Potential advancements in e-commerce industry with ChatGPT
-=================================================================================================================
-
-Introduction
-------------
 
 ChatGPT has already shown its potential to improve customer experience and increase sales in the e-commerce industry. However, the future of e-commerce with ChatGPT is even more promising. In this chapter, we will discuss some potential advancements in the e-commerce industry with ChatGPT.
 

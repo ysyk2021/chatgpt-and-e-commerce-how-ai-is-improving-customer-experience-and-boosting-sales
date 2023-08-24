@@ -1,5 +1,3 @@
-Chapter 4: Understanding ChatGPT
-================================
 
 ChatGPT is a state-of-the-art Natural Language Processing (NLP) model developed by OpenAI that can generate human-like responses to natural language queries. In this chapter, we will explore what ChatGPT is, its features and capabilities, and how it can be used to improve customer experience and boost sales in e-commerce.
 

@@ -1,5 +1,3 @@
-Factors Affecting E-commerce Industry
-===================================================================================
 
 The e-commerce industry is a constantly evolving landscape, and businesses must adapt to changing trends and challenges to remain competitive. In this chapter, we will explore some of the factors affecting the e-commerce industry and contributing to the challenges faced by businesses.
 

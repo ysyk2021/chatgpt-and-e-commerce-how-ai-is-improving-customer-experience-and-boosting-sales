@@ -1,5 +1,3 @@
-Chapter 1: Basics of E-commerce Industry
-========================================
 
 The e-commerce industry is a rapidly growing sector that has transformed the way businesses interact with customers. In this chapter, we will explore the basics of the e-commerce industry, the different types of businesses involved, and the importance of customer experience and sales optimization.
 

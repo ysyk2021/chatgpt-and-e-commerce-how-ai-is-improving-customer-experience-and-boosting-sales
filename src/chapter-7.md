@@ -1,5 +1,3 @@
-Chapter 6: Future of E-commerce Industry with ChatGPT
-=====================================================
 
 Potential Advancements in E-commerce Industry with ChatGPT
 ----------------------------------------------------------

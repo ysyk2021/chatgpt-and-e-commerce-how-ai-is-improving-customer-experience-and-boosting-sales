@@ -1,5 +1,3 @@
-Introduction to AI and Chatbots
-=====================================================================================
 
 Artificial intelligence (AI) and chatbots are revolutionizing the e-commerce industry by improving customer experience and boosting sales. In this chapter, we will introduce AI and chatbots and explore their growing importance in the e-commerce space.
 

@@ -1,8 +1,3 @@
-What is ChatGPT?
-==================================================
-
-Introduction
-------------
 
 ChatGPT is an artificial intelligence (AI) language model developed by OpenAI. It uses natural language processing (NLP) to understand and respond to customer inquiries in a conversational manner. In this chapter, we will explore what ChatGPT is and how it works.
 

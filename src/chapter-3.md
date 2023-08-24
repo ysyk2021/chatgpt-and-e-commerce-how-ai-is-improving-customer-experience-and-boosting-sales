@@ -1,5 +1,3 @@
-Chapter 2: Challenges in E-commerce Industry
-============================================
 
 The e-commerce industry is facing a range of challenges that can impact customer experience and sales. In this chapter, we will explore the factors affecting the e-commerce industry, the common challenges faced by e-commerce businesses, and the potential impact of these challenges on customer experience and sales.
 

@@ -1,5 +1,4 @@
-Chapter: Case Studies of E-commerce Businesses that have Successfully Implemented ChatGPT in their Services
-===========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will examine case studies of e-commerce businesses that have successfully implemented AI-powered chatbots, such as ChatGPT, in their services. These case studies illustrate how chatbots have transformed customer experience and boosted sales growth for these businesses.
 

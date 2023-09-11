@@ -1,5 +1,4 @@
-Chapter: Factors Affecting the E-commerce Industry
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore various factors that significantly impact the e-commerce industry. These factors shape the competitive landscape, influence consumer behavior, and drive the adoption of AI technologies like ChatGPT to improve customer experience and boost sales.
 

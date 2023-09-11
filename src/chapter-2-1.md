@@ -1,5 +1,4 @@
-Chapter: Definition of the E-commerce Industry
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will define and explore the e-commerce industry. E-commerce, short for electronic commerce, refers to the buying and selling of goods and services over the internet. It has become a vital part of the global economy, revolutionizing the way businesses operate and consumers shop.
 

@@ -1,5 +1,4 @@
-Chapter: Emerging Trends and Challenges in the E-commerce Industry and ChatGPT
-==============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the emerging trends and challenges in the e-commerce industry and how the integration of ChatGPT, an AI-powered chatbot, can address them. As technology continues to evolve, new trends shape the e-commerce landscape, while also presenting unique challenges. Let's explore some of these trends and the role of ChatGPT in navigating these challenges.
 

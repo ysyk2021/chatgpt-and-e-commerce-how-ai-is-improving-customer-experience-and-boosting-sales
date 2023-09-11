@@ -1,5 +1,4 @@
-Chapter: Introduction to AI and Chatbots
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In recent years, Artificial Intelligence (AI) and chatbot technologies have revolutionized the way businesses interact with customers in the e-commerce industry. This chapter provides an overview of AI and chatbots, explaining their significance and potential in improving customer experience and boosting sales.
 

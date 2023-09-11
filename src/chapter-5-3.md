@@ -1,5 +1,4 @@
-Chapter: How ChatGPT Can Improve Customer Experience and Boost Sales in E-commerce
-==================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how ChatGPT, an AI-powered chatbot, can be utilized to enhance customer experience and drive sales in the e-commerce industry. ChatGPT's capabilities make it a valuable tool for engaging customers, providing personalized assistance, and optimizing the sales process.
 

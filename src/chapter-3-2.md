@@ -1,5 +1,4 @@
-Chapter: Common Challenges Faced by E-commerce Businesses
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss some common challenges that e-commerce businesses often face. These challenges can hinder their growth, impact customer experience, and limit their ability to boost sales. Understanding and addressing these challenges is crucial for success in the ever-evolving e-commerce landscape.
 

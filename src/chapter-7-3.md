@@ -1,5 +1,4 @@
-Chapter: Conclusion and Future Outlook
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this final chapter, we will summarize the key points discussed throughout the book "ChatGPT and E-commerce: How AI is Improving Customer Experience and Boosting Sales" and provide a glimpse into the future outlook of AI in the e-commerce industry.
 

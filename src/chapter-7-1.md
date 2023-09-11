@@ -1,5 +1,4 @@
-Chapter: Potential Advancements in the E-commerce Industry with ChatGPT
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the potential advancements that can be achieved in the e-commerce industry by leveraging ChatGPT, an AI-powered chatbot. As technology continues to evolve, ChatGPT holds great promise for revolutionizing various aspects of the e-commerce landscape. Let's dive into some key areas where ChatGPT can bring significant improvements.
 

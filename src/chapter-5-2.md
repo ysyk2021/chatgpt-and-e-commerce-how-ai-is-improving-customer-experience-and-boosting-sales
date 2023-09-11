@@ -1,5 +1,4 @@
-Chapter: Features and Capabilities of ChatGPT
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the features and capabilities of ChatGPT, an AI-powered chatbot, and how it enhances customer experiences and boosts sales in the e-commerce industry. ChatGPT possesses a wide range of functionalities that make it a powerful tool for improving customer engagement and driving business growth. Let's delve into its key features.
 

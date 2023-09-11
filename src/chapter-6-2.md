@@ -1,5 +1,4 @@
-Chapter: Best Practices for Using ChatGPT in Improving Customer Experience and Boosting Sales
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As AI-powered chatbots, such as ChatGPT, become increasingly popular in e-commerce, it is essential to understand and implement best practices for leveraging this technology effectively. This chapter outlines key strategies and considerations for using ChatGPT to enhance customer experience and drive sales in the e-commerce industry.
 

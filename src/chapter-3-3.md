@@ -1,5 +1,4 @@
-Chapter: Impact of these challenges on customer experience and sales
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the impact of various challenges that businesses face while integrating AI-powered chatbots like ChatGPT into their e-commerce systems. We will discuss how these challenges can affect customer experience and sales.
 

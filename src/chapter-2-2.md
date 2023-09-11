@@ -1,5 +1,4 @@
-Chapter: Different Types of Businesses in the E-commerce Industry
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various types of businesses that operate within the e-commerce industry. These businesses leverage AI technology like ChatGPT to enhance customer experience and boost sales. Understanding the different types of e-commerce businesses is crucial for developing effective strategies and creating tailored solutions.
 
